@@ -1,6 +1,6 @@
 # Mortgage Calculator
 
-A calculator that helps users estimate their mortgage payments.
+A calculator built with Next.js that helps users estimate their mortgage payments.
 
 ## Live Demo
 
