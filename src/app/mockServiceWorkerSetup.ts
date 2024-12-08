@@ -2,7 +2,7 @@ import { setupServer } from "msw/node";
 import { http, HttpResponse } from "msw";
 
 const server = setupServer(
-  http.get("/api/cmhc-insurance-rate", ({ params, request }) => {
+  http.get("/api/cmhc-insurance-rate", () => {
     return HttpResponse.json(
       {
         insuranceRate: 7600,
@@ -12,7 +12,7 @@ const server = setupServer(
       },
     );
   }),
-  http.get("/api/mortgage-payment", ({ params, request }) => {
+  http.get("/api/mortgage-payment", () => {
     return HttpResponse.json(
       {
         mortgagePayment: 3728.9557680565713,
