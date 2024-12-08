@@ -21,7 +21,10 @@ npm run dev
 ## Run a production build locally
 
 ```bash
-# Create a production build
+# Install dependencies
+npm install
+
+# Create an optimized production build
 npm run build
 
 # Run to start a production server
