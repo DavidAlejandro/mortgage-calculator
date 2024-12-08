@@ -14,7 +14,7 @@ Try it [here](https://mortgage-calculator-henna.vercel.app/).
 # Install dependencies
 npm install
 
-# Run to start a development server
+# Start a development server
 npm run dev
 ```
 
@@ -27,7 +27,7 @@ npm install
 # Create an optimized production build
 npm run build
 
-# Run to start a production server
+# Start a production server
 npm run start
 ```
 
