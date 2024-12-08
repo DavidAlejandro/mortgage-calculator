@@ -1,4 +1,15 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Mortgage Calculator
+
+A calculator that helps users estimate their mortgage payments.
+
+---
+
+## Live Demo
+
+Try it [here](https://mortgage-calculator-henna.vercel.app/).  
+![Mortgage Calculator Screenshot](https://i.imgur.com/0JEI2zX.png)
+
+---
 
 ## Getting Started
 
