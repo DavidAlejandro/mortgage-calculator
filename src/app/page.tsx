@@ -2,7 +2,7 @@ import { MortgageCalculator } from "./components/MortgageCalculator/MortgageCalc
 
 export default function Home() {
   return (
-    <div className="container mx-auto h-screen w-1/2 content-center">
+    <div className="mx-auto flex h-screen w-1/2 flex-col items-center justify-center">
       <MortgageCalculator />
     </div>
   );
